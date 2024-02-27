@@ -12,8 +12,15 @@ Through I could not find the specific AI tools that Upstart uses, I was able to 
 ## Landscape
 They are in the finance field focusing on Credit and lending. 
 Some of the major trends in Lending technology space has been 
-# Open Banking 
-# Blockchain
-# API adoption 
-# Embedded Finance
-# Use of AI and ML
+ Open Banking 
+ Blockchain
+ API adoption 
+ Embedded Finance
+ Use of AI and ML
+They have some pretty well known competitors like Sofi, LendingTree, LendingClub, Prosper, Upgrade, Inc, Avant, Affirm, Auxmoney and BackPoint just to name a few. 
+
+##Results 
+I think the business impact so far is that lending is more competitive and that is great for the consumer. The borrower is vetted very quickly and very seldom are turned down because of all the lending options. 
+A few of the way they measure there success is how many loan still go into default. How many borrower walk away without the financing they need. Finally what is the profit margin with the high overhead in getting techincal talent. 
+## Recommendations 
+I would use face reconition as an identifying factor when acception applications. With identity theft running rampid I would add this feature to help and benefit the public. 
